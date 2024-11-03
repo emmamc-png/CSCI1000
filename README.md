@@ -6,7 +6,7 @@
 Teaches beginners **ON MACS** how to familarize themselves with git and begin teaching themselves in preparation for working.
 
 To find out more information about the creator click here!
-(https://github.com/emmamc-png)
+[Creator's GitHub](https://github.com/emmamc-png)
 
 ## Instructions**
 1. Download Xcode in the app store

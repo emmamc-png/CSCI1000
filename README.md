@@ -1,7 +1,7 @@
 # Project Title
     **Learning to use Git and Creating Repositories**
 
-    (!https://i.pinimg.com/474x/b9/49/6c/b9496ca6323a6f826ebcfca4a55988bd.jpg)
+    !(https://i.pinimg.com/474x/b9/49/6c/b9496ca6323a6f826ebcfca4a55988bd.jpg)
 ## Description
     Teaches beginners **ON MACS** how to familarize themselves with git and begin teaching themselves in preparation for working.
 
